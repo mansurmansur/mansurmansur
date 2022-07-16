@@ -7,7 +7,7 @@ I am a yound professional software developer who recently graduated with a Bsc C
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with finding an intership job or volunteer opportunities
 - 💬 Ask me about Anything !!!
-- 📫 How to reach me: on linkedIn [Mansur Mansur](www.linkedin.com/in/mansurmansur)
+- 📫 How to reach me: on linkedIn [Mansur Mansur](https://www.linkedin.com/in/mansurmansur)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: can speak 4 differen languages
 
