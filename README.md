@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-<!--
-**mansurmansur/mansurmansur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a yound professional software developer who recently graduated with a Bsc Computer Science from Trent University. I am hardworking and dedicated person who is currently open to work opportuinities. I am happy to collaborate to with anyone to work on projects.
 
-Here are some ideas to get you started:
+technology stacks:
+- HTML & CSS
+- Javascript 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## How to reach me
+I'm currently working 🔭 on my front-end dev projects.
