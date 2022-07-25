@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a yound professional software developer who recently graduated with a Bsc Computer Science from Trent University. I am hardworking and dedicated person who is currently open to work opportuinities. I am happy to collaborate to with anyone to work on projects.
+I am a yound professional software developer who recently graduated with a Bsc Computer Science from Trent University. I am hardworking and dedicated person who is currently open to job opportunities.
 
 - 🔭 I’m currently working on  [ a video Maker Web APP ]()
 - 🌱 I’m currently learning [ Complete Web Design Course ]() on Skillshare
