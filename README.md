@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a yound professional software developer who recently graduated with a Bsc Computer Science from Trent University. I am hardworking and dedicated person who is currently open to job opportunities.
+I am a yound professional computer programmer who recently graduated from Trent University with a BSc honours Computer Science.
 
 - 🔭 Interested in Network and Security
 - 💬 Ask me about Anything !!!
