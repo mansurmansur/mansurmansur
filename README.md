@@ -10,4 +10,4 @@ I always try to improve on my knowledge and skills. I work as an IT Service Desk
 - ⚡ Fun fact: can speak 4 differen languages
 
 ## Languages and Tools
-<iframe src="https://giphy.com/embed/tbryr3T62vOH4MwiE5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/aluraonline-js-java-tbryr3T62vOH4MwiE5">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/tbryr3T62vOH4MwiE5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
