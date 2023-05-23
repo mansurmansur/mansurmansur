@@ -1,10 +1,13 @@
 ## Hi there 👋
 
-I am a yound professional computer programmer who recently graduated from Trent University with a BSc honours Computer Science.
+I am a yound professional computer programmer with Computer Science degree from Trent University. I get great satisfaction from creating programs that makes tedious work easier. I currently live in Peterborough Ontario. 
 
-- 🔭 Interested in Network and Security
+I always try to improve on my knowledge and skills. I work as an IT Service Desk Technician. 
+
+- 🔭 Interested in Computer Network and Security
 - 💬 Ask me about Anything !!!
 - 📫 How to reach me: on linkedIn [Mansur Mansur](https://www.linkedin.com/in/mansurmansur)
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: can speak 4 differen languages
 
+## Languages and Tools
+<iframe src="https://giphy.com/embed/tbryr3T62vOH4MwiE5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/aluraonline-js-java-tbryr3T62vOH4MwiE5">via GIPHY</a></p>
