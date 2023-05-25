@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a yound professional computer programmer with Computer Science degree from Trent University. I get great satisfaction from creating programs that makes tedious work easier. I currently live in Peterborough Ontario. 
+I am a young professional computer programmer with Computer Science degree from Trent University. I get great satisfaction from creating programs that makes tedious work easier. I currently live in Peterborough Ontario. 
 
 I always try to improve on my knowledge and skills. I work as an IT Service Desk Technician. 
 
