@@ -1,13 +1,6 @@
-## Hi there 👋
+## Hi there 
 
-I am a young professional computer programmer with Computer Science degree from Trent University. I get great satisfaction from creating programs that makes tedious work easier. I currently live in Peterborough Ontario. 
 
-I always try to improve on my knowledge and skills. I work as an IT Service Desk Technician. 
-
-- 🔭 Interested in Computer Network and Security
-- 💬 Ask me about Anything !!!
-- 📫 How to reach me: on linkedIn [Mansur Mansur](https://www.linkedin.com/in/mansurmansur)
-- ⚡ Fun fact: can speak 4 differen languages
 
 ## Languages and Tools
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
